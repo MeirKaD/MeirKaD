@@ -1,50 +1,55 @@
-```markdown
-# Welcome to MeirKaD's GitHub Universe! 🌌
+# Welcome to My GitHub! 👨‍💻✨
 
-Hey there! I'm Meir Kadosh, a passionate software developer and tech enthusiast. Welcome to my corner of the digital world where creativity meets code. Let's embark on a journey through my projects, skills, and achievements. 🚀
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQHH7TBkP1WgpQ/profile-displaybackgroundimage-shrink_200_800/B4DZaK0gz2GgAU-/0/1746085744476?e=2147483647&v=beta&t=uQrHkg6NfgdYtOJBMB5UD53d1UfDpKE1DoqpemRcWcU)
 
-## About Me
+## 👋 Hello, I'm Meir Kadosh!
 
-👨‍💻 **Software Developer**  
-🎓 **Education:** Bachelor of Science in Computer Science  
-🌍 **Location:** Tel Aviv, Israel  
-💼 **Current Role:** Full-Stack Developer at Tech Innovators Inc.  
-🔗 [LinkedIn](https://www.linkedin.com/in/meir-kadosh-7bb5b7224/)
+I'm a creative and passionate **Software Developer** and **AI Engineer** based in the bustling city of Tel Aviv, Israel. Currently, I'm crafting innovative AI solutions at [Bright Data](https://il.linkedin.com/company/bright-data) as an **AI Infrastructure Engineer**. My mission is to turn the live web into insightful answers through the magic of AI.
 
-I'm driven by a love for technology and a desire to create innovative solutions that make a difference. When I'm not coding, you can find me exploring new cuisines or hiking in the great outdoors. 🌲🍜
+- 🌍 **Location:** Tel Aviv District, Israel
+- 💼 **Current Role:** AI Infrastructure Engineer at Bright Data
+- 🎓 **Education:** Bachelor's in Computer Science from Sapir College
+- 🌟 **Interests:** GenAI, Agent Alchemy, Cybersecurity
 
-## GitHub Stats 📊
+## 🚀 Professional Journey
 
-![MeirKaD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeirKaD&show_icons=true&theme=radical)
+- **AI Infrastructure Engineer** @ Bright Data (Apr 2025 - Present)
+  - 🚀 Spearheading AI-driven data solutions
+  - 🛠️ Building robust AI systems and infrastructure
 
-## Featured Projects 🌟
+- **Datasets Expert** @ Bright Data (Oct 2024 - Present)
+  - 🧩 Providing technical guidance on scraper development
+  - ⚙️ Optimizing scraper performance and stability
 
-### 1. Project Alpha 🚀
-A cutting-edge web application that leverages machine learning to provide personalized user experiences.
+- **Technical Support Representative** @ Bright Data (Oct 2023 - Nov 2024)
+  - 🔧 Ensured seamless integration of products into customer systems
 
-- **Technologies:** React, Node.js, TensorFlow
-- **Highlights:** Implemented a real-time recommendation engine
-- [GitHub Repository](https://github.com/MeirKaD/project-alpha)
+## 🎓 Academic Background
 
-### 2. DataViz Pro 📊
-An interactive data visualization tool that transforms complex datasets into intuitive visual insights.
+- **Bachelor's in Computer Science** from [Sapir College](https://il.linkedin.com/school/sapir-academic-college/?trk=public_profile_school_profile-section-card_image-click) (2021 - 2024)
+  - 🎓 GPA: 85
 
-- **Technologies:** D3.js, Python, Flask
-- **Highlights:** Developed custom visual components and interactive dashboards
-- [GitHub Repository](https://github.com/MeirKaD/dataviz-pro)
+## 🏆 Certifications
 
-### 3. SecureAuth 🔒
-A robust authentication system designed to enhance security for web applications.
+- **Pre Security** from TryHackMe
+  - [🔗 View Credential](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RGNTCMVTQC.png?trk=public_profile_see-credential)
 
-- **Technologies:** Java, Spring Boot, OAuth 2.0
-- **Highlights:** Integrated multi-factor authentication and encryption protocols
-- [GitHub Repository](https://github.com/MeirKaD/secureauth)
+## 🌟 Featured Projects
 
-## Let's Connect! 🤝
+- **LLMs In CyberSecurity**
+  - 🔍 Developed a Cybersecurity LLM to transform troubleshooting for digital threats
+  - 🤝 Collaborated with Dr. Yair Meidan at Ben-Gurion University
 
-I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/meir-kadosh-7bb5b7224/) or check out my work here on GitHub. Let's build something amazing together!
+## 📊 GitHub Stats
+
+![MeirKaD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeirKaD&show_icons=true&theme=radical)
+
+## 📫 Connect with Me!
+
+- [LinkedIn](https://www.linkedin.com/in/meir-kadosh-7bb5b7224/)
 
 ---
 
-Thank you for visiting my GitHub profile. Have a great day! 😊
-```
+Feel free to reach out if you want to collaborate on exciting projects or just chat about tech and innovation! 😊
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MeirKaD.MeirKaD) ![GitHub Followers](https://img.shields.io/github/followers/MeirKaD?style=social) ![GitHub Stars](https://img.shields.io/github/stars/MeirKaD?style=social)
